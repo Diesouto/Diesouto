@@ -4,8 +4,6 @@
 
 </br>
 
-# About Me 💬 :
-
 ### - 21yo FullStack Developer from Galicia 🤍💙🤍.
 
 ```javascript
@@ -14,25 +12,32 @@ const diego = {
   code: [Javascript, Typescript, C#, .NET, HTML, CSS, SQL, Java],
   tools: [React, Node, Sass, Git],
   career: { 
-                studies: "Higher Technician in <a href="https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf" alt="DAM">DAM</a> & <a href="https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf" alt="DAW">DAW</a>",
-                workExperience: "FullStack Developer - <a href="https://siscom.es/" alt="Siscom">Siscom</a>"
+                studies: "Higher Technician in DAM & DAW",
+                workExperience: "FullStack Developer - Siscom"
           },
  challenge: "Improving my 3D web skills!"
 }
 ```
 
-### - Learning :
-- ✨ How to work with 3D elements in web (ThreeJS)
-- ✨ JavaScript frameworks (React)
+<details>
+  <summary>Know me better</summary>
+  <br>
+  
+  ### - Learning rn :
+  - ✨ How to work with 3D elements in web (ThreeJS)
+  - ✨ JavaScript frameworks (React)
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Reading manga
-- ✨ Playing the guitar
-- ✨ Going to the gym!
+  ### - Hobbies : 
+  - ✨ Gaming Addict
+  - ✨ Reading manga
+  - ✨ Playing the guitar
+  - ✨ Going to the gym!
 
-### - Work : 
-- ✨ Working as a fullstack developer over at **[Siscom](https://siscom.es/)**
+  ### - Career : 
+  - ✨ Higher Technician in **[DAM](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)** & **[DAW](https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf)**
+  - ✨ Working as a fullstack developer over at **[Siscom](https://siscom.es/)**
+
+</details>
 
 <hr>
 <p align="center">
