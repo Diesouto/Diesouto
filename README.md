@@ -3,7 +3,7 @@
   <h1>hey, i´m Diego!</h1>
 </div>
 
-### - 21yo FullStack Developer from Galicia 🤍💙🤍.
+### 21yo FullStack Developer from Galicia 🤍💙🤍.
 
 ```javascript
 const diego = {
@@ -21,15 +21,15 @@ const diego = {
 <details>
   <summary>Some more things about me!</summary>
   
-  ### - Career : 
+  ### Career : 
   - ✨ Higher Technician in **[DAM](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)** & **[DAW](https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf)**
   - ✨ Working as a fullstack developer over at **[Siscom](https://siscom.es/)**
   
-  ### - Learning rn :
+  ### Learning rn :
   - ✨ How to work with 3D elements in web (ThreeJS)
   - ✨ JavaScript frameworks (React)
 
-  ### - Hobbies : 
+  ### Hobbies : 
   - ✨ Gaming Addict
   - ✨ Reading manga
   - ✨ Playing the guitar
@@ -38,9 +38,9 @@ const diego = {
 </details>
 
 <hr>
-<p align="center">
-  <i>Let's chat!</i>
-
+  <p align="center">
+    Let's chat!
+  </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/diesouto/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:diegosouto2000@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
