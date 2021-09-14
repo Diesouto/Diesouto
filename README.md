@@ -8,7 +8,7 @@
 ```javascript
 const diego = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, C#, HTML, CSS, SQL, Java],
+  code: [Javascript, Typescript, C#, PHP, HTML, CSS, SQL, Java],
   tools: [.NET, React, Node, Sass, Git],
   career: { 
                 studies: "Higher Technician in DAM & DAW",
