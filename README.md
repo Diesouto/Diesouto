@@ -15,8 +15,8 @@ const diego = {
                 workExperience: [
                                   "FullStack Developer @ Siscom",
                                   "Software Engineer @ LambdaLoopers",
-                                  "FrontEnd Developer @ Sectorea,
-                                  "FrontEnd Developer @ GFT
+                                  "FrontEnd Developer @ Sectorea",
+                                  "FrontEnd Developer @ GFT"
                                 ]
           },
  interests: "Improving my 3D web skills!"
