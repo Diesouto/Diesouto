@@ -3,18 +3,23 @@
   <h1>hey, i´m Diego!</h1>
 </div>
 
-### 21yo FullStack Developer from Galicia 🤍💙🤍.
+### 24yo FullStack Developer from Galicia 🤍💙🤍.
 
 ```javascript
 const diego = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, C#, PHP, HTML, CSS, SQL, Java],
-  tools: [.NET, React, Node, Sass, Git],
+  tools: [React, Vue, LitElement, Node, Laravel, Sass, Git],
   career: { 
                 studies: "Higher Technician in DAM & DAW",
-                workExperience: "FullStack Developer @ Siscom"
+                workExperience: [
+                                  "FullStack Developer @ Siscom",
+                                  "Software Engineer @ LambdaLoopers",
+                                  "FrontEnd Developer @ Sectorea,
+                                  "FrontEnd Developer @ GFT
+                                ]
           },
- challenge: "Improving my 3D web skills!"
+ interests: "Improving my 3D web skills!"
 }
 ```
 
@@ -23,11 +28,11 @@ const diego = {
   
   ### Career : 
   - ✨ Higher Technician in **[DAM](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)** & **[DAW](https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf)**
-  - ✨ Working as a fullstack developer over at **[Siscom](https://siscom.es/)**
+  - ✨ Working as a FrontEnd Developer over at **[GFT]([https://siscom.es/](https://www.gft.com/es/es))**
   
   ### Learning rn :
-  - ✨ How to work with 3D elements in web (ThreeJS)
-  - ✨ JavaScript frameworks (React)
+  - ✨ How to work with 3D elements in web (ThreeJS, React-three-fiber)
+  - ✨ Improving my web component development skills
 
   ### Hobbies : 
   - ✨ Gaming Addict
