@@ -3,7 +3,7 @@
   <h1>hey, i´m Diego!</h1>
 </div>
 
-### 24yo FullStack Developer from Galicia 🤍💙🤍.
+### 25yo FullStack Developer from Galicia 🤍💙🤍.
 
 ```javascript
 const diego = {
@@ -28,7 +28,7 @@ const diego = {
   
   ### Career : 
   - ✨ Higher Technician in **[DAM](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)** & **[DAW](https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf)**
-  - ✨ Working as a FrontEnd Developer over at **[GFT]([https://siscom.es/](https://www.gft.com/es/es))**
+  - ✨ Working as a FrontEnd Developer over at **[GFT](https://www.gft.com/es/es)**
   
   ### Learning rn :
   - ✨ How to work with 3D elements in web (ThreeJS, React-three-fiber)
@@ -49,11 +49,5 @@ const diego = {
   <p align="center">
     <a href="https://www.linkedin.com/in/diesouto/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:diegosouto2000@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-  </p>
-
-  <p align="center">
-    <a href="https://visitor-badge.glitch.me/">
-      <img align="center" src="https://page-views.glitch.me/badge?page_id=diesouto.diesouto">
-    </a>
   </p>
 </p>
