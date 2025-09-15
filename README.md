@@ -1,6 +1,6 @@
 <div align="center">
   <img style="margin-top: -100px!important height="200" width="300" alt="GIF" align="center" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
-  <h1>hey, i´m Diego!</h1>
+  <h1>hey, I´m Diego!</h1>
 </div>
 
 ### 25yo FullStack Developer from Galicia 🤍💙🤍.
